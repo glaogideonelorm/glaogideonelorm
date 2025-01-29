@@ -5,6 +5,7 @@
 
 
 
+
 - 🔭 I’m currently working on [p2p payment automation](It's kinda private)
 
 - 🌱 I’m currently learning **Vue and React native**
@@ -14,6 +15,8 @@
 - 💬 Ask me about **React or Django**
 
 - 📫 How to reach me **glagogideonelorm2006@gmail.com**
+
+- #Check out my  Medium posts **https://medium.com/@glagogideonelorm2006/join-me-on-my-road-to-becoming-a-professional-frontend-developer-6ac9c17f6ae6**
 
 
 <h3 align="left">Connect with me:</h3>
